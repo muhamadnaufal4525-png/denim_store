@@ -1,0 +1,3 @@
+<?php
+echo "DENIM STORE BERHASIL DIBUKA!";
+?>

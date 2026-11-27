@@ -1,0 +1,26 @@
+
+input, textarea {
+    width: 100%;
+    max-width: 500px;
+    padding: 14px;
+    border: 1px solid #cbd4d9;
+    background: white;
+    outline: none;
+    font-size: 14px;
+}
+
+input:focus, textarea:focus {
+    border-color: #517b99;
+}
+
+textarea {
+    min-height: 120px;
+    resize: vertical;
+}
+
+form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    font-size: 13px;
+}
